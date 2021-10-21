@@ -4,3 +4,4 @@ This repository contains all of the notes taken by [Jang Walia](https://github.c
 ## Table Of Content
 * [Week 1](/week1)
   * [Day 1](/week1/day1)
+  * [Day 2](/week1/day1)
